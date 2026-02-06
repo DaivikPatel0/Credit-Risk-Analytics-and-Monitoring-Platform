@@ -22,7 +22,7 @@ Rather than optimizing for unrealistic accuracy, this project emphasizes **data 
 
 ## 🗂️ Dataset Overview
 
-- Source: Kaggle (Loan Default Dataset)
+- Source: Kaggle (Loan Default Dataset) - https://www.kaggle.com/datasets/hemanthsai7/loandefault/data
 - Only the **training dataset** was used
 - The provided test dataset was intentionally excluded due to:
   - Poor data quality
